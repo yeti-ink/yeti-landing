@@ -70,7 +70,7 @@ const viewSource = createAppConfig({
   shouldOpenWindow: false,
   externalAction: () => window.open('https://github.com/yeti-ink', '_blank'),
 });
-
+/** 
 const docs = createAppConfig({
   title: `Docs`,
   resizable: true,
@@ -78,7 +78,7 @@ const docs = createAppConfig({
   shouldOpenWindow: false,
   externalAction: () => window.open('https://docs.yeti.ink', '_blank'),
 });
-
+*/
 const liquidity = createAppConfig({
   title: `Liquidity`,
   resizable: true,
@@ -111,7 +111,7 @@ export const appsConfig = {
   farms,
   liquidity,
   //finder,
-  'Docs': docs,
+  //'Docs': docs,
   'view-source': viewSource,
   vscode,
   wallpapers,

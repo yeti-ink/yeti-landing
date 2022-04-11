@@ -46,18 +46,19 @@
     </h1>
     <br /><br />
     <p>
-      Bitcoin doesn’t need to be passive, De-Fi doesn’t need to be confusing.
+      Why ape, when you can Yeti?
     </p>
     <br /><br />
     <p>
       Our dApp is still under construction. 👷 However, you can still get your hands on a limited number of $YTC tokens via our pre-sale on Pinksale.Finance. 
-      <b>Pre-sale goes live 4/20/22 at 6pm CST.</b>
+      <b>Pre-sale goes live 5/1/22 at 6pm CST.</b> $YTC is designed to bring high, sustainable yields while maintaining exposure to Bitcoin.
       <img src="/assets/emojis/star-struck.png" alt="Star Struck face emoji" class="emoji" />
     </p>
     <br /><br />
     <p>
-      Yeti is NOT just another Tomb fork. While we did borrow from Tomb's updated codebase, we are excited to announce we are building the first quantum differential calculus-based algo-stable protocol on Fantom Opera. 
-      $YTC, our native token is designed to bring high, sustainable yields while maintaining exposure to Bitcoin.
+      Yeti ink. is a modified fork of Tomb Finance at the highest level. This seigniorage mechanic would not be available if not for Tomb. 
+      However, we wish to pay homage by <b>not</b> simply copying and pasting an existing concept but by building new use cases on top. We believe
+      an actively managed DAO treasury and the additional utility of Yeti ink's algo-trade bot as a service, can achieve this.. 
     </p>
   </section>
 </section>

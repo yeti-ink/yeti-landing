@@ -50,7 +50,7 @@
     </p>
     <br /><br />
     <p>
-      Our dApp is still under construction. 👷 However, you can still get your hands on a limited number of $YTC tokens via our pre-sale on Pinksale.Finance. 
+      Our dApp is still under construction. 👷 However, you can still get your hands on a limited number of tokens via our pre-sale on Pinksale.Finance. 
       <b>Pre-sale goes live 5/1/22 at 6pm CST.</b> $YTC is designed to bring high, sustainable yields while maintaining exposure to Bitcoin.
       <img src="/assets/emojis/star-struck.png" alt="Star Struck face emoji" class="emoji" />
     </p>
